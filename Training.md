@@ -28,4 +28,4 @@ Please acknowledge our Core in your publications. An appropriate wording would b
 ---
 
 ## Contact
-Please contact the [Optogenetics and Neural Engineering Core](/ONECoreWebSite/about/) via [email](mailto:neuralengineering@ucdenver.edu) with any questions, comments, or requests for quotes.
+Please contact the [Optogenetics and Neural Engineering Core](/ONECoreSite/about/) via [email](mailto:neuralengineering@ucdenver.edu) with any questions, comments, or requests for quotes.

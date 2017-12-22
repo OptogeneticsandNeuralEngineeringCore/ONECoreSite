@@ -4,11 +4,11 @@ title: Stereotaxic Neuroprobeamajiger
 date: 18 June 2017
 tags: [3D Print, FDM, stereotaxic]
 screenshot:
-  src: /ONECoreWebSite/assets/img/projects/Neuroprobeamajiger.jpg
+  src: /ONECoreSite/assets/img/projects/Neuroprobeamajiger.jpg
   srcset:
-    1920w: /ONECoreWebSite/assets/img/projects/Neuroprobeamajiger.jpg
-    960w: /ONECoreWebSite/assets/img/projects/Neuroprobeamajiger.jpg
-    480w: /ONECoreWebSite/assets/img/projects/Neuroprobeamajiger.jpg
+    1920w: /ONECoreSite/assets/img/projects/Neuroprobeamajiger.jpg
+    960w: /ONECoreSite/assets/img/projects/Neuroprobeamajiger.jpg
+    480w: /ONECoreSite/assets/img/projects/Neuroprobeamajiger.jpg
 caption: Hold fiber optic cannulas and electric probes on your stereotaxic equipment
 description: >
     Inexpensive 3D printed parts to easily attach to basic stereotaxic equipment. Several designs are shared and can hold MiniScope microscopes, fiber optic cannulas, neural electric array probes, *both optics and electrodes*, and just a general wire holder.

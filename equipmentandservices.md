@@ -13,7 +13,7 @@ The Optogenetics and Neural Engineering (ONE) Core offers a variety of equipment
                Example: Any user of a laser must complete the EH&S Laser Training Module prior to use.
 
 ## Services
-With a deep understanding of Mechanical Engineering and Neuroscience Engineering, the ONE Core aims to be *the* engineering resource for your research. Optics, Mechanical, Biological, Hardware, and Software Engineering (including data analysis) can all be customized to fit your needs. Please see our [projects page](/ONECoreWebSite/projects/) for example projects, but understand that we specialize in customization for your needs. All listed projects can be expanded to help you reach your goals. Some service keywords:
+With a deep understanding of Mechanical Engineering and Neuroscience Engineering, the ONE Core aims to be *the* engineering resource for your research. Optics, Mechanical, Biological, Hardware, and Software Engineering (including data analysis) can all be customized to fit your needs. Please see our [projects page](/ONECoreSite/projects/) for example projects, but understand that we specialize in customization for your needs. All listed projects can be expanded to help you reach your goals. Some service keywords:
 * [3D design and printing](https://github.com/OptogeneticsandNeuralEngineeringCore/SmallProjectFiles/raw/master/3D%20Poster.pdf)
   * microSLA High Resolution printing with a <a href="https://www.3dsystems.com/3d-printers/projet-1200" target="blank">3DSystems Projet1200</a>
   * Inexpensive FDM printing with a <a href="https://www.lulzbot.com/" target="blank">Lulzbot Taz</a>
@@ -23,7 +23,7 @@ With a deep understanding of Mechanical Engineering and Neuroscience Engineering
   * Assistance in choosing outside vendors for fabrication techniques outside of ONE Core abilities
 * Custom design and fabrication of optic fibers and implants. Safe consultation on optic power and optic methodology (report irradiance consistently [in vivo](https://github.com/OptogeneticsandNeuralEngineeringCore/SmallProjectFiles/raw/master/Methods%20Section%20and%20Acknowledgement%20In%20Vivo.docx) or [in vitro](https://github.com/OptogeneticsandNeuralEngineeringCore/SmallProjectFiles/raw/master/Methods%20Section%20and%20Acknowledgement%20In%20Vitro.docx))
 * Hardware design, fabrication, and diagnostics
-* Software coding (including Matlab, Python, C++, Arduino, Raspberry Pi (Linux), website design (isn't <a href="/ONECoreWebSite/" target="blank">this one</a> pretty?))
+* Software coding (including Matlab, Python, C++, Arduino, Raspberry Pi (Linux), website design (isn't <a href="/ONECoreSite/" target="blank">this one</a> pretty?))
 * Other unique services:
   * Tissue Clearing via the [CLARITY ETC Chamber](https://linktoCLARITY.com), as designed by the ONE Core
   * [Fiber Photometry Unit](http://clarityresourcecenter.com/fiberphotometry.html) (*Coming Soon*)
@@ -36,14 +36,14 @@ In effort to decrease the barrier to cutting edge research, the ONE Core has a w
 
 Electronics	  | ​Manufacturer	   | ​Part Number   
 ----          | ----            | ----          
-[TTL Pulse Generator and Contoller](/ONECoreWebSite/projects/Arduino%20TTL%20Pulse%20Generator%20and%20Controller/) | ONE Core | NA
+[TTL Pulse Generator and Contoller](/ONECoreSite/projects/Arduino%20TTL%20Pulse%20Generator%20and%20Controller/) | ONE Core | NA
 Digital Delay/Pulse Generator | ​​Stanford Research Systems | ​DG535
 ​Function/Arbitrary Waveform Generator |	​BK Precision | ​4052
 Dual Output DC Power Supply | HP | E3620A
 Shaker | Stovall | The Belly Dancer
 Pipette Puller | Sutter | P-2000
 Laptop | Lenovo | SL510
-[Lesion Maker](/ONECoreWebSite/projects/thislinkwillbebroken/) | ONE Core | NA
+[Lesion Maker](/ONECoreSite/projects/thislinkwillbebroken/) | ONE Core | NA
 Oscilloscope | Tektronix | TDS 2024C
 Electronic Workbench | ONE Core | NA
 Optical Rise Time Meter | Thorlabs | DET10A
@@ -85,4 +85,4 @@ Please acknowledge our Core in your publications. An appropriate wording would b
 ---
 
 ## Contact
-Please contact the [Optogenetics and Neural Engineering Core](/ONECoreWebSite/about/) via [email](mailto:neuralengineering@ucdenver.edu) with any questions, comments, or requests for quotes.
+Please contact the [Optogenetics and Neural Engineering Core](/ONECoreSite/about/) via [email](mailto:neuralengineering@ucdenver.edu) with any questions, comments, or requests for quotes.

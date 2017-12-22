@@ -4,11 +4,11 @@ title: Arduino TTL Pulse Generator and Controller
 date: 18 June 2017
 tags: [3D Print, FDM, Arduino]
 screenshot:
-  src: /ONECoreWebSite/assets/img/projects/TTL Gen.jpg
+  src: /ONECoreSite/assets/img/projects/TTL Gen.jpg
   srcset:
-    1920w: /ONECoreWebSite/assets/img/projects/TTL Gen.jpg
-    960w: /ONECoreWebSite/assets/img/projects/TTL Gen.jpg
-    480w: /ONECoreWebSite/assets/img/projects/TTL Gen.jpg
+    1920w: /ONECoreSite/assets/img/projects/TTL Gen.jpg
+    960w: /ONECoreSite/assets/img/projects/TTL Gen.jpg
+    480w: /ONECoreSite/assets/img/projects/TTL Gen.jpg
 caption: Design and Control your experiments with a TTL Generator and Controller
 description: >
     An Arduino based system to generate, listen for, and (coming soon) record TTL Pulses

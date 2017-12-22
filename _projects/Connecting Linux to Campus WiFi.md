@@ -4,11 +4,11 @@ title: Connecting Linux to Campus WiFi
 date: 18 June 2017
 tags: [General, Raspberry Pi]
 screenshot:
-  src: /ONECoreWebSite/assets/img/projects/WiFi.png
+  src: /ONECoreSite/assets/img/projects/WiFi.png
   srcset:
-    1920w: /ONECoreWebSite/assets/img/projects/WiFi.png
-    960w: /ONECoreWebSite/assets/img/projects/WiFi.png
-    480w: /ONECoreWebSite/assets/img/projects/WiFi.png
+    1920w: /ONECoreSite/assets/img/projects/WiFi.png
+    960w: /ONECoreSite/assets/img/projects/WiFi.png
+    480w: /ONECoreSite/assets/img/projects/WiFi.png
 caption: Connecting Linux to Campus WiFi can be tricky.
 description: >
     Connecting Linux to Campus WiFi can be tricky. Here are some tips on connecting a basic Linux device to a Campus Wireless. Special attention is given to Ubuntu and Rasbian (Raspberry Pi). These are directly applicable to Wireless Networks CU Anschutz and CU Anschutz Guest.
