@@ -4,7 +4,7 @@ Author: Andrew Scallon
 ---
 ![ONE Core Logo](/ONECoreSite/assets/img/Half Full Half.jpg "ONE Core Logo"){:.page-title}
 ## Welcome
-This is the projects page for the Optogenetics and Neural Engineering (ONE) Core at the [University of Colorado, Anschutz Medical Campus](http://www.ucdenver.edu/pages/ucdwelcomepage.aspx) [School of Medicine](http://www.ucdenver.edu/academics/colleges/medicalschool/Pages/somWelcome.aspx), with particular attention to the [Neuroscience Program](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Neuroscience/Pages/Neuroscience.aspx).
+This is the projects page for the *Optogenetics and Neural Engineering (ONE) Core* at the [University of Colorado, Anschutz Medical Campus](http://www.ucdenver.edu/pages/ucdwelcomepage.aspx) [School of Medicine](http://www.ucdenver.edu/academics/colleges/medicalschool/Pages/somWelcome.aspx), with particular attention to the [Neuroscience Program](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Neuroscience/Pages/Neuroscience.aspx).
 Within these pages you will find information on the ONE Core as well as
 
 > Interesting Open Source Projects <br/>

@@ -23,7 +23,7 @@ links:
 
 Patch clamp is vital to neuroscience and allows for direct recording and stimulation of neurons or membrane channels. Typically voltage clamp or current clamp is used to hold one constant while varying the other. An underutilized technique known as Dynamic Clamp can allow for more precise control. This configuration of patch clamp records the action potential (voltage) of the cell in real time and returns a specific, non-predetermined membrane current. Historically, such real time calculations have required the addition of very expensive equipment. Luckily, today microcontrollers are advanced and inexpensive enough for this application. Additionally, there is a great drive for sharing of designs, allowing for rapid advancement of science.
 
-An open sourced (GNU General Public License (version 3, 29 June 2007) Dynamic Clamp system has been generously developed by Niraj Desai, et Al. The system (its function, its properties, and its place in contemporary neuroscience) is described in detail in this paper: *Niraj S. Desai, Richard Gray, and Daniel Johnston. A dynamic clamp on every rig. eNeuro (DOI:10.1523/ENEURO.0250-17.2017).* The website [Dynamic Clamp](www.dynamicclamp.com) includes detailed instructions on how to assemble and use the system. This system is inexpensive and simple enough for the average patch clamper with no previous experience in electronics or coding to be up and dynamically clamping in short order.
+An open sourced (GNU General Public License (version 3, 29 June 2007) Dynamic Clamp system has been generously developed by Niraj Desai, et Al. The system (its function, its properties, and its place in contemporary neuroscience) is described in detail in this paper: *Niraj S. Desai, Richard Gray, and Daniel Johnston. A dynamic clamp on every rig. eNeuro (DOI:10.1523/ENEURO.0250-17.2017).* The website [Dynamic Clamp](http://www.dynamicclamp.com) includes detailed instructions on how to assemble and use the system. This system is inexpensive and simple enough for the average patch clamper with no previous experience in electronics or coding to be up and dynamically clamping in short order.
 
 The Optogenetics and Neural Engineering (ONE) Core has advanced this dynamic clamp system. We have designed 3D printed enclosures to hold the assembly in an isolated and rigid manner. The circuit can be rearranged to fit onto a smaller breadboard, and can be soldered for ultimate rigidity.  We have created a spreadsheet to ease calculations during calibration.
 
@@ -66,9 +66,9 @@ Here it is in the 3D housing (more later). The Teensy floats, so be sure to hot 
 
 ***
 
-* Better-er: In this design, the space waisted on the left of the breadboard is utilized to hold the Teensy firmly. This is great because it can be difficult to plug in the USB cord. Note that the Teensy is turned 90° relative to the breadboard. Therefore it is very important (!) to only connect four pins to the breadboard. Otherwise you will be connecting the pins of the Teensy together! Pins 5, 20, 26, and 39 can be soldered to the bread breadboard with straight breakaway headers (Sparkfun [PRT-00116](https://www.sparkfun.com/products/116)).
+* Better-er: In this design, the space previously wasted on the left of the breadboard is utilized to hold the Teensy firmly. This is great because it can be difficult to plug in the USB cord. Note that the Teensy is turned 90° relative to the breadboard. Therefore it is very important (!) to only connect four pins to the breadboard. Otherwise you will be connecting the pins of the Teensy together! Pins 5, 20, 26, and 39 can be soldered to the bread breadboard with straight breakaway headers (Sparkfun [PRT-00116](https://www.sparkfun.com/products/116)).
 
-The space waisted on the right of the breadboard can hold the teensy.
+The space wasted on the right of the breadboard can hold the teensy.
 ![Better-er Pic 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171125_123122.jpg "Pic 1 Better-er")
 All resistors and wires that cross over the top of the microcircuits have moved to the underside of the breadboard. Additionally, all input/outputs to the BNCs have moved to the bottom.
 ![Better-er Pic 2](/ONECoreSite/assets/img/projects/DynamicClamp/20171125_122958.jpg "Pic 2 Better-er")
@@ -133,9 +133,9 @@ The designs shared here require several additional/alternative components from w
 
 | Description | Supplier | Part Number  |
 | --- | --- | --- |
-| 3D Enclosure | ONE Core? **Support us!** | Easy/Better/Better-er 3D files below |
+| 3D Enclosure | ONE Core! **[Support us!](mailto:neuralengineering@ucdenver.edu)** | Easy/Better/Better-er 3D files above |
 | Hot glue | ?? | (If you build the Easy or Better design) |
-| M3 Screw 4 mm long | Mouser | 92005A112	|
+| M3 Screw 4 mm long | McMaster | 92005A112 (sorry, no link, McMaster doesn't play well with links)	|
 | BNC Connector | Mouser | [PN 571-5227726-1](https://www.mouser.com/productdetail/571-5227726-1) |
 | Breakaway Headers | Sparkfun | [PRT-00116](https://www.sparkfun.com/products/116) |
 | Solderable Breadboard | Sparkfun  | [Prt-12070](https://www.sparkfun.com/products/12070) |
