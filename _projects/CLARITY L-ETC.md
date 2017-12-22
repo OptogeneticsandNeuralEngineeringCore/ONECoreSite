@@ -4,11 +4,11 @@ title: CLARITY L-ETC
 date: 18 June 2017
 tags: [CLARITY]
 screenshot:
-  src: /ONECoreSite/assets/img/projects/CLARITYExploded.png
+  src: /ONECoreWebSite/assets/img/projects/CLARITYExploded.png
   srcset:
-    1920w: /ONECoreSite/assets/img/projects/CLARITYExploded.png
-    960w: /ONECoreSite/assets/img/projects/CLARITYExploded.png
-    480w: /ONECoreSite/assets/img/projects/CLARITYExploded.png
+    1920w: /ONECoreWebSite/assets/img/projects/CLARITYExploded.png
+    960w: /ONECoreWebSite/assets/img/projects/CLARITYExploded.png
+    480w: /ONECoreWebSite/assets/img/projects/CLARITYExploded.png
 caption: Clear your tissues reliably, safely, and inexpensively.
 description: >
     CLARITY as developed by Chung et al., 2013, is a method to affix a biological tissue sample in a hydrogel polymer and rapidly clear tissue of light scattering molecules, allowing for deep imaging. The Linear Electrophoretic Tissue Clearing (L-ETC) described herein allows for secure tissue containment, more consistent and efficient tissue cooling, fast lipid removal, easier chamber fabrication, and very low initial costs.
@@ -36,7 +36,7 @@ A pdf describing this project in detail can be found [here](https://github.com/O
 
 # Part List
 
-![Linear CLARITY ETC](/ONECoreSite/assets/img/projects/CLARITYExploded.png "L-ETC (or el ETC)")
+![Linear CLARITY ETC](/ONECoreWebSite/assets/img/projects/CLARITYExploded.png "L-ETC (or el ETC)")
 
 $$/
 Item	Description	PN 	Supplier	Qty need	Qty in package	Price per Package	Total $	Total Cost Per Chamber

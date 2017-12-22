@@ -34,22 +34,22 @@ All projects posted here are give as open sourced, under the [MIT License](http:
 customization and expansion of all projects. Please see out contact information below.
 ​
 ## Personnel
-<img style="float: right; width:190px;height:170px;" src="/ONECoreSite/assets/img/Physiology_Biophysics.CC33.jpg" hspace="20">
+<img style="float: right; width:190px;height:170px;" src="/ONECoreWebSite/assets/img/Physiology_Biophysics.CC33.jpg" hspace="20">
 Andrew Scallon is the Manager of the ONE Core. With an education in Mechanical Engineering and Neuroscience Engineering from the University of Wisconsin, Madison, he is an *engineering resource for your research*. He offers a diverse background in Optics, Mechanical, Biological, Hardware, and Software Engineering and an eagerness to assist you in *your* research.
 <br>
 <br>
 
-<img style="float: left; width:190px;height:170px;" src="/ONECoreSite/assets/img/Aidan3.png" hspace="20">
+<img style="float: left; width:190px;height:170px;" src="/ONECoreWebSite/assets/img/Aidan3.png" hspace="20">
 Aidan Armstrong is a Professional Research Assistant in the ONE Core. His Biomedical Engineering education at SUNY Buffalo developed a background in MRI and optical imaging techniques. He applies his broad science and engineering skill set to a wide variety of projects within the ONE Core.
 <br>
 <br>
 
-<img style="float: right; width:170px;height:190px;" src="/ONECoreSite/assets/img/Person_headshot1.jpg" hspace="20">
+<img style="float: right; width:170px;height:190px;" src="/ONECoreWebSite/assets/img/Person_headshot1.jpg" hspace="20">
  Abigail Person is the Director of the ONE Core. Her laboratory studies the contribution of the cerebellum to motor control, focusing on circuit mechanisms that support smooth, precise movement. By combining physiology, optogenetics, anatomical methods, and behavior she aims to address how cerebellar circuitry makes movements precise.
  <br>
  <br>
 
-<img style="float: left; width:150px;height:200px;" src="/ONECoreSite/assets/img/felsen.jpg" hspace="20">
+<img style="float: left; width:150px;height:200px;" src="/ONECoreWebSite/assets/img/felsen.jpg" hspace="20">
 Gidon Felsen is the Co-Director of the ONE Core. His lab is investigating how sensory representations are transformed into plans for motor output and uses electrophysiological, behavioral, pharmacological, molecular, and computational methods of study. Current studies focus on the distinct roles played by several interconnected subcortical brain regions: the superior colliculus, pedunculopontine tegmental nucleus, and substantia nigra pars reticulata.
 <br>
 <br>
@@ -70,4 +70,4 @@ Please acknowledge our Core in your publications. An appropriate wording would b
 *"Engineering support was provided by the Optogenetics and Neural Engineering Core at the University of Colorado Anschutz Medical Campus, funded in part by the National Institute of Neurological Disorders and Stroke of the National Institutes of Health under award number P30NS048154."*
 
 ## Contact
-Please contact the [Optogenetics and Neural Engineering Core](/ONECoreSite/about/) via [email](mailto:neuralengineering@ucdenver.edu) with any questions, comments, or requests for quotes.
+Please contact the [Optogenetics and Neural Engineering Core](/ONECoreWebSite/about/) via [email](mailto:neuralengineering@ucdenver.edu) with any questions, comments, or requests for quotes.

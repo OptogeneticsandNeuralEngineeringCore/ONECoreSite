@@ -4,11 +4,11 @@ title: Irradiance
 date: 27 Nov 2017
 tags: [Optics]
 screenshot:
-  src: /ONECoreSite/assets/img/projects/Irradiance.jpg
+  src: /ONECoreWebSite/assets/img/projects/Irradiance.jpg
   srcset:
-    1920w: /ONECoreSite/assets/img/projects/Irradiance.jpg
-    960w: /ONECoreSite/assets/img/projects/Irradiance.jpg
-    480w: /ONECoreSite/assets/img/projects/Irradiance.jpg
+    1920w: /ONECoreWebSite/assets/img/projects/Irradiance.jpg
+    960w: /ONECoreWebSite/assets/img/projects/Irradiance.jpg
+    480w: /ONECoreWebSite/assets/img/projects/Irradiance.jpg
 caption: Discussions on proper techniques for reporting optical irradiance
 description: >
     Optical power per area (irradiance) is frequently reported in literature incorrectly or at best vaguely. Researchers applying the same optical power per area may report it orders of magnitude differently. General optics also discussed

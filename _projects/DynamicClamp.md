@@ -4,11 +4,11 @@ title: Dynamic Clamp
 date: 21 Dec 2017
 tags: [3D Print, FDM, Teensy]
 screenshot:
-  src: /ONECoreSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
+  src: /ONECoreWebSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
   srcset:
-    1920w: /ONECoreSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
-    960w: /ONECoreSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
-    480w: /ONECoreSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
+    1920w: /ONECoreWebSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
+    960w: /ONECoreWebSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
+    480w: /ONECoreWebSite/assets/img/projects/DynamicClamp/20171128_151640.jpg
 caption: Control your patch clamping like never before on the cheap
 description: >
     A very inexpensive Teensy is placed on a breadboard with several other circuits to create a Dynamic Clamp with sufficient resolution and timing for controlling your patch clamp recordings.
@@ -39,7 +39,7 @@ The current system as described by Dr. Desai is simply assembled in a solderless
 
 Easy | Better | Better-er
 :---: | :---: | :---:
-![Easy Pic 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171101_142630.jpg "Pic 1 Easy") | ![Better Pic 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171101_153911.jpg "Pic 1 Better") | ![Better-er Pic 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171125_123122.jpg "Pic 1 Better-er")
+![Easy Pic 1](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171101_142630.jpg "Pic 1 Easy") | ![Better Pic 1](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171101_153911.jpg "Pic 1 Better") | ![Better-er Pic 1](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171125_123122.jpg "Pic 1 Better-er")
 
 ***
 
@@ -48,34 +48,34 @@ Easy | Better | Better-er
 * Easy: The large (solderless) breadboard listed in original paper can be replaced with a (solderless) breadboard half the size (Sparkfun  [PRT-12002](https://www.sparkfun.com/products/12002)). There is a large opportunity for shorts when the legs of components (ex: resistors) are long, so it is wise to bend and cut the legs appropriately. Some resistors must cross over the top (from the bottom to the top of the breadboard) and are therefore long. If you'd like, you can electrically isolate these with shrink wrap. Of main note, this design saves space by compacting how circuits are laid out and reducing the need to cross over the breadboard (by duplicating the -9V rail). The Fritzing file readily shows all connections, and parts are named as they are in the original paper (and have the values given for the default design in the original paper). The Fritzing file is great, but you cannot resize parts, so it can be complicated. I hope that several pictures also help with assembly. The Teensy floats next to the breadboard in this design. It is a good idea to hot glue it down to the base of the 3D printed enclosure.
 
 Fritzing file screen shot: Fritzing is a program that will show all connections, but you cannot resize or move the parts, so a screen shot may not be best.
-![Easy Fritzing](/ONECoreSite/assets/img/projects/DynamicClamp/FritzingDCCompact.png "Fritzing Pic Easy")
+![Easy Fritzing](/ONECoreWebSite/assets/img/projects/DynamicClamp/FritzingDCCompact.png "Fritzing Pic Easy")
 Bend and cut all the wires such that it is unlikely to create a short. The rails from top to bottom are GND, -9V, -9V, and +9V. Rows 26-30 on the breadboard are kind of wasteful, they only connect a wire to a wire, which makes it easy for testing.
-![Easy Pic 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171101_142630.jpg "Pic 1 Easy")
-![Easy Pic 2](/ONECoreSite/assets/img/projects/DynamicClamp/20171101_142633.jpg "Pic 2 Easy")
-![Easy Pic 3](/ONECoreSite/assets/img/projects/DynamicClamp/20171101_142636.jpg "Pic 3 Easy")
-![Easy Pic 4](/ONECoreSite/assets/img/projects/DynamicClamp/20171101_142639.jpg "Pic 4 Easy")
+![Easy Pic 1](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171101_142630.jpg "Pic 1 Easy")
+![Easy Pic 2](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171101_142633.jpg "Pic 2 Easy")
+![Easy Pic 3](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171101_142636.jpg "Pic 3 Easy")
+![Easy Pic 4](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171101_142639.jpg "Pic 4 Easy")
 
 ***
 
 * Better: This design is the same as the easy, but with a solderable breadboard (Sparkfun [Prt-12070](https://www.sparkfun.com/products/12070)). The Fritzing is the same file as the Easy version, but pictures are given to show how it looks. The Teensy floats next to the breadboard in this design. It is a good idea to hot glue it down to the base of the 3D printed enclosure.
 
 This design is much more robust. The resistors that cross over the microcircuits are coated in shrink wrap for isolation.
-![Better Pic 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171101_153911.jpg "Pic 1 Better")
+![Better Pic 1](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171101_153911.jpg "Pic 1 Better")
 Here it is in the 3D housing (more later). The Teensy floats, so be sure to hot glue it down.
-![Better Pic 2](/ONECoreSite/assets/img/projects/DynamicClamp/20171102_103458.jpg "Pic 2 Better")
+![Better Pic 2](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171102_103458.jpg "Pic 2 Better")
 
 ***
 
 * Better-er: In this design, the space waisted on the left of the breadboard is utilized to hold the Teensy firmly. This is great because it can be difficult to plug in the USB cord. Note that the Teensy is turned 90° relative to the breadboard. Therefore it is very important (!) to only connect four pins to the breadboard. Otherwise you will be connecting the pins of the Teensy together! Pins 5, 20, 26, and 39 can be soldered to the bread breadboard with straight breakaway headers (Sparkfun [PRT-00116](https://www.sparkfun.com/products/116)).
 
 The space waisted on the right of the breadboard can hold the teensy.
-![Better-er Pic 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171125_123122.jpg "Pic 1 Better-er")
+![Better-er Pic 1](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171125_123122.jpg "Pic 1 Better-er")
 All resistors and wires that cross over the top of the microcircuits have moved to the underside of the breadboard. Additionally, all input/outputs to the BNCs have moved to the bottom.
-![Better-er Pic 2](/ONECoreSite/assets/img/projects/DynamicClamp/20171125_122958.jpg "Pic 2 Better-er")
+![Better-er Pic 2](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171125_122958.jpg "Pic 2 Better-er")
 Here's the Fritzing screenshot
-![Better-er Pic 3](/ONECoreSite/assets/img/projects/DynamicClamp/FritzingDCCompactRobust.png "Pic 3 Better-er")
+![Better-er Pic 3](/ONECoreWebSite/assets/img/projects/DynamicClamp/FritzingDCCompactRobust.png "Pic 3 Better-er")
 To get the Teensy onto the breadboard, first cut (4) breakaway headers into single pins. Put these in the appropriate holes of the breadboard and place the Teensy on top. Solder the pins to Teensy, but not the breadboard. You can then solder all other connections to the breadboard. Then solder the breadboard to the pins on the Teensy.
-![Better-er Pic 4](/ONECoreSite/assets/img/projects/DynamicClamp/20171127_144805.jpg "Pic 4 Better-er")
+![Better-er Pic 4](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171127_144805.jpg "Pic 4 Better-er")
 
 ***
 
@@ -83,8 +83,8 @@ To get the Teensy onto the breadboard, first cut (4) breakaway headers into sing
 
 First size and cut the wires for all connections (all Grounds connect, so leave extra length on the grounds so they can all wrap together). Then solder the wires to the BNC Connector (Mouser [PN 571-5227726-1](https://www.mouser.com/productdetail/571-5227726-1)) with ground on the outside, and 'data/hot' center. You can put shrink wrap over only the center wire for isolation of this solder connection. Then feed through the 3D enclosure, feed through the washer and the nut, and tighten down. Then solder down every 'data/hot'. Then connect all grounds together in a big ball. Solder them all together and cover with shrink wrap.
 
-![BNC 1](/ONECoreSite/assets/img/projects/DynamicClamp/20171128_151746.jpg "BNC 1")
-![BNC 2](/ONECoreSite/assets/img/projects/DynamicClamp/20171128_151730.jpg "BNC 2")
+![BNC 1](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171128_151746.jpg "BNC 1")
+![BNC 2](/ONECoreWebSite/assets/img/projects/DynamicClamp/20171128_151730.jpg "BNC 2")
 
 ***
 
@@ -102,7 +102,7 @@ There is also a tab called Connections that may be used as a hook up guide (it s
 
 Here are the files discussed in one place. Calibration, Fritzing, and 3D files.
 
-For the 3D files (printable stl and editable ipt): Parts printed successfully with FDM printer (Lulzbot FTW) PLA or nGen (preferred) with standard Cura settings (normal or high detail), 20% infill. No supports are required. In general, the Easy and Better designs have the Teensy floating next to the breadboards, so the enclosure is longer than the Better-er design. You can view and interact with some 3D files [here.](/ONECoreSite/posts/DynamicClamp3Dstlview.md)
+For the 3D files (printable stl and editable ipt): Parts printed successfully with FDM printer (Lulzbot FTW) PLA or nGen (preferred) with standard Cura settings (normal or high detail), 20% infill. No supports are required. In general, the Easy and Better designs have the Teensy floating next to the breadboards, so the enclosure is longer than the Better-er design. You can view and interact with some 3D files [here.](/ONECoreWebSite/blog/DynamicClamp3Dstlview)
 
 *Update* Some researchers wanted more BNC connections, so the Better-er design was updated to allow for 8 connections (mega!).
 
