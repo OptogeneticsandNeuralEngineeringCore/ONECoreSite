@@ -19,13 +19,13 @@ links:
     url: https://github.com/OptogeneticsandNeuralEngineeringCore/DynamicClamp
 ---
 
-# Dynamic Clamp Introduction
+# Dynamic Clamp
 
 Patch clamp is vital to neuroscience and allows for direct recording and stimulation of neurons or membrane channels. Typically voltage clamp or current clamp is used to hold one constant while varying the other. An underutilized technique known as Dynamic Clamp can allow for more precise control. This configuration of patch clamp records the action potential (voltage) of the cell in real time and returns a specific, non-predetermined membrane current. Historically, such real time calculations have required the addition of very expensive equipment. Luckily, today microcontrollers are advanced and inexpensive enough for this application. Additionally, there is a great drive for sharing of designs, allowing for rapid advancement of science.
 
 An open sourced (GNU General Public License (version 3, 29 June 2007) Dynamic Clamp system has been generously developed by Niraj Desai, et Al. The system (its function, its properties, and its place in contemporary neuroscience) is described in detail in this paper: *Niraj S. Desai, Richard Gray, and Daniel Johnston. A dynamic clamp on every rig. eNeuro (DOI:10.1523/ENEURO.0250-17.2017).* The website [Dynamic Clamp](http://www.dynamicclamp.com) includes detailed instructions on how to assemble and use the system. This system is inexpensive and simple enough for the average patch clamper with no previous experience in electronics or coding to be up and dynamically clamping in short order.
 
-The Optogenetics and Neural Engineering (ONE) Core has advanced this dynamic clamp system. We have designed 3D printed enclosures to hold the assembly in an isolated and rigid manner. The circuit can be rearranged to fit onto a smaller breadboard, and can be soldered for ultimate rigidity.  We have created a spreadsheet to ease calculations during calibration.
+The Optogenetics and Neural Engineering (ONE) Core has advanced this dynamic clamp system. We have designed 3D printed enclosures to hold the assembly in an isolated and rigid manner. The circuit can be rearranged to fit onto a smaller breadboard, and can be soldered for ultimate rigidity.  We have created a spreadsheet to ease calculations during calibration. We provide a suggested hookup schematic.
 
 ****
 
@@ -88,6 +88,14 @@ First size and cut the wires for all connections (all Grounds connect, so leave 
 
 ***
 
+# Hookup Schematic
+
+The below is provided as a suggestion for adding a Dynamic Clamp to your rig. An example is given with a Digidata 1440A DAQ and a Multiclamp 700B Headstage.
+
+![Hookup Schematic](/ONECoreSite/assets/img/projects/DynamicClamp/DC Information Flow.jpg "Hookup Schematic")
+
+***
+
 # Calibration
 
 The original design allows this Dynamic Clamp to be used with a variety of patch clamp and DAQ systems. Each of these systems may use a different gains, and therefore different resistor values may be required in the circuits. These inexpensive resistors have tolerances that may be up to 5% of the stated value. It is therefore important to calibrate the system per the instructions in the original documentation. Although it is very wise to fully understand the equations used in the original design, it is easy to make mathematical errors. Therefore, the ONE Core has created a  [spreadsheet](https://github.com/OptogeneticsandNeuralEngineeringCore/DynamicClamp/raw/master/Calibration%20Of%20Dynamic%20Clamp%20UnitNumberXyZ.xlsx) to ease the calibration process.
@@ -109,6 +117,7 @@ For the 3D files (printable stl and editable ipt): Parts printed successfully wi
 | Name | File Type | Design (if applicable) | Use |
 | --- | --- | --- |
 | [Calibration File](https://github.com/OptogeneticsandNeuralEngineeringCore/DynamicClamp/raw/master/Calibration%20Of%20Dynamic%20Clamp%20UnitNumberXyZ.xlsx) | .xlsx | NA | Aids in calibration calculations |
+| [Hookup Schematic](https://github.com/OptogeneticsandNeuralEngineeringCore/DynamicClamp/raw/master/DC%20Information%20Flow.pdf) | .pdf | NA | Check out how it can fit into your rig |
 | [Fritzing Compact](https://github.com/OptogeneticsandNeuralEngineeringCore/DynamicClamp/raw/master/Compact.fzz) | .fzz | Easy and Better | See the connections |
 | [Fritzing Compact Robust](https://github.com/OptogeneticsandNeuralEngineeringCore/DynamicClamp/raw/master/CompactRobust.fzz) | .fzz | Better-er | See the connections |
 | [DynamicClampBottom.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/DynamicClamp/raw/master/DynamicClampBottom.ipt) |.ipt | Easy and Better | Design file bottom |
