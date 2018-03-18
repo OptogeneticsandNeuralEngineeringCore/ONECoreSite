@@ -14,14 +14,14 @@ description: >
     Inexpensive 3D printed parts to easily attach to basic stereotaxic equipment. Several designs are shared and can hold MiniScope microscopes, fiber optic cannulas, neural electric array probes, *both optics and electrodes*, and just a general wire holder.
 links:
   - title: Download All
-    url: https://github.com/OptogeneticsandNeuralEngineeringCore/Arduino-TTL-Pulse-Generator-and-Controller/archiveidiot/master.zip
+    url: https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger.git
   - title: Source
-    url: https://github.com/OptogeneticsandNeuralEngineeringCore/Arduino-TTL-Pulse-Generator-and-Controlleridiot
+    url: https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger
 ---
 
 # Neuroprobeamajiger
 
-This is a collection of parts that easily attach to stereotaxic equipment. With one M3 10 mm screw (idiot) and one M3 nut (no glue even) the parts can attach to the basic 6 mm (idiot) diameter stereotaxic rod. Another set of M3 screw and nut allows for the parts to clamp onto what is to be implanted. Currently, there are revisions that allow for
+This is a collection of parts that easily attach to stereotaxic equipment. With one M3 10 mm screw and one M3 nut (no glue even) the parts can attach to the basic 6 mm diameter stereotaxic rod. Another set of M3 screw and nut allows for the parts to clamp onto what is to be implanted. Currently, there are revisions that allow for
 
 * optic cannulas (fiber optics for optogenetics, including a 1.25 mm or 2.5 mm ferrules or associated sleeves)
 * electrode arrays (special attention to Neuronexus probes)
@@ -31,7 +31,7 @@ This is a collection of parts that easily attach to stereotaxic equipment. With 
 
 A variety of horizontal holes on top allow wires and fiber optic patch cords to be held. No special tools are required for assembly. Release of the component post implantation only requires one hand (phillips screwdriver).
 
-I'm an engineer with no marketing experience. Please pardon the name.
+I'm an engineer with no marketing experience. Please pardon the name (Neuroprobeamajiger).
 
 ***
 
@@ -39,16 +39,16 @@ I'm an engineer with no marketing experience. Please pardon the name.
 
 | File | Description | File Type  |
 | --- | --- | --- |
-| [StereotaxicNeuroprobeamajigerOptic.ipt]() | Stereotaxic Optic Fiber Holder | ipt (3D editable) |
-| [StereotaxicNeuroprobeamajigerOptic.stl]() | Stereotaxic Optic Fiber Holder | stl (3D printable) |
-| [StereotaxicNeuroprobeamajigerElectrode.ipt]() | Stereotaxic Electrode Holder | ipt (3D editable) |
-| [StereotaxicNeuroprobeamajigerElectrode.stl]() | Stereotaxic Electrode Holder | stl (3D printable) |
-| [StereotaxicNeuroprobeamajigerElectrodeAndOptic.ipt]() | Stereotaxic Optic and Electrode Holder | ipt (3D editable) |
-| [StereotaxicNeuroprobeamajigerElectrodeAndOptic.stl]() | Stereotaxic Optic Electrode Holder | stl (3D printable) |
-| [StereotaxicNeuroprobeamajigerWires.ipt]() | Stereotaxic Wire Holder | ipt (3D editable) |
-| [StereotaxicNeuroprobeamajigerWires.stl]() | Stereotaxic Wire Holder | stl (3D printable) |
-| [StereotaxicNeuroprobeamajigerMiniscope.ipt]() | Miniscope Holder | ipt (3D editable) |
-| [StereotaxicNeuroprobeamajigerMiniscope.stl]() | Miniscope Holder | stl (3D printable) |
+| [StereotaxicNeuroprobeamajigerOptic.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerOptic.ipt) | Stereotaxic Optic Fiber Holder | ipt (3D editable) |
+| [StereotaxicNeuroprobeamajigerOptic.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerOptic.stl) | Stereotaxic Optic Fiber Holder | stl (3D printable) |
+| [StereotaxicNeuroprobeamajigerElectrode.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerElectrode.ipt) | Stereotaxic Electrode Holder | ipt (3D editable) |
+| [StereotaxicNeuroprobeamajigerElectrode.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerElectrode.stl) | Stereotaxic Electrode Holder | stl (3D printable) |
+| [StereotaxicNeuroprobeamajigerElectrodeAndOptic.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerElectrodeAndOptic.ipt) | Stereotaxic Optic and Electrode Holder | ipt (3D editable) |
+| [StereotaxicNeuroprobeamajigerElectrodeAndOptic.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerElectrodeAndOptic.stl) | Stereotaxic Optic Electrode Holder | stl (3D printable) |
+| [StereotaxicNeuroprobeamajigerWires.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerWires.ipt) | Stereotaxic Wire Holder | ipt (3D editable) |
+| [StereotaxicNeuroprobeamajigerWires.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerWires.stl) | Stereotaxic Wire Holder | stl (3D printable) |
+| [StereotaxicNeuroprobeamajigerMiniscope.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerMiniscope.ipt) | Miniscope Holder | ipt (3D editable) |
+| [StereotaxicNeuroprobeamajigerMiniscope.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerMiniscope.stl) | Miniscope Holder | stl (3D printable) |
 
 ***
 
