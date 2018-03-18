@@ -4,18 +4,18 @@ title: Some Notes on Laser Safety Curtains
 date: 18 March 2018
 tags: [Blog, Behavior, Laser]
 screenshot:
-  src: /ONECoreSite/assets/img/projects/Box.png
+  src: /ONECoreSite/assets/img/projects/Curtain1.jpg
   srcset:
-    1920w: /ONECoreSite/assets/img/projects/Box.png
-    960w: /ONECoreSite/assets/img/projects/Box.png
-    480w: /ONECoreSite/assets/img/projects/Box.png
-caption: Build your own behavior box
+    1920w: /ONECoreSite/assets/img/projects/Curtain1.jpg
+    960w: /ONECoreSite/assets/img/projects/Curtain1.jpg
+    480w: /ONECoreSite/assets/img/projects/Curtain1.jpg
+caption: Build your own laser safety curtains
 description: >
     Laser safety curtain ideas
 ---
 # Laser Safety
 
-Coming soon!
+Coming soon
 
 ***
 
