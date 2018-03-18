@@ -19,7 +19,7 @@ links:
     url: https://github.com/OptogeneticsandNeuralEngineeringCore/MicroscopeCamera
 ---
 
-# What is
+# Microscope Camera
 
 This is a super cool project. With this project, you can learn to build a very inexpensive stand alone computer (Raspberry Pi, FTW!). It acts as a stand alone system for any of your scientific (or otherwise) endeavors; after set up, it allows you to capture pictures and videos (8 MP!) from ANYWHERE with internet access. Tell your boss you were in over the weekend (I did! She fell for it!) and have pictorial evidence to back it up. You can monitor your experimental set up from ANYWHERE with internet access. Simply go to the specified website and tell the system how and when to capture the pictures or videos, and then download thm. You can tell the system to capture pictures and videos based on your input, some time series, or even *motion* (right?). The system will act as a server, and will hold the pictures for you to access whenever you (or your boss) feels like returning to 'work'. Check out the latest functionality [here](https://elinux.org/RPi-Cam-Web-Interface).
 

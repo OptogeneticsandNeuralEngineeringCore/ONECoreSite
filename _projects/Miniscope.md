@@ -11,7 +11,7 @@ screenshot:
     480w: /ONECoreSite/assets/img/projects/MiniScope/Hand.jpg
 caption: Some hopeful improvements to the MiniScope Project
 description: >
-    Here are some hopeful improvements to the MiniScope Project, allowing for single cell resolution of awake behaving animals.
+    Here are some improvements to the MiniScope Project, allowing for single cell resolution of awake behaving animals.
 links:
   - title: Download All
     url: https://github.com/OptogeneticsandNeuralEngineeringCore/MicroscopeCamera/archive/later.zip
@@ -19,7 +19,7 @@ links:
     url: https://github.com/OptogeneticsandNeuralEngineeringCore/later
 ---
 
-# Introduction
+# MiniScope
 
 Here are some project ideas to help advance the *amazing* [MiniScope project](http://miniscope.org/index.php/Main_Page). Single cell resolution on behaving animal on the cheap? Yes plz. More to come.
 

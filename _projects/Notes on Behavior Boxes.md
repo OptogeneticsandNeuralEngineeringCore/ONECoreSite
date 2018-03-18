@@ -13,7 +13,7 @@ caption: Build your own behavior box
 description: >
     Behavior boxes are often constructed from Acrylic sheets. Design your own custom box to fit your needs.
 ---
-# Introduction
+# Behavior Box
 
 This isn't a project so much as it is an general explanation (rambling) for constructing (and fixing!) your own operant/behavior boxes. These can be ordered through suppliers that specialize in behavior. But they are expensive, and typically don't allow for customization. They can come air tight, but we can build that as well. If you have a break or leak in you box, don't order a new one, simply fix it up.
 
