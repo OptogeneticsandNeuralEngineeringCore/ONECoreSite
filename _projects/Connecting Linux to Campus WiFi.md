@@ -18,7 +18,7 @@ links:
   - title: Source
     url: https://github.com/OptogeneticsandNeuralEngineeringCore/SmallProjectFiles/raw/master/Connecting%20Linux%20to%20Anschutz%20Wireless.docx
 ---
-# Introduction
+# Connecting Linux to Campus WiFi
 
 Connecting Linux to Campus WiFi can be tricky. [Here](https://github.com/OptogeneticsandNeuralEngineeringCore/SmallProjectFiles/raw/master/Connecting%20Linux%20to%20Anschutz%20Wireless.docx) are some tips on connecting a basic Linux device to a Campus Wireless. Special attention is given to Ubuntu and Rasbian (Raspberry Pi). These are directly applicable to Wireless Networks CU Anschutz and CU Anschutz Guest.
 

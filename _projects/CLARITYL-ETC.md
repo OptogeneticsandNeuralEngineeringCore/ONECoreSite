@@ -18,7 +18,7 @@ links:
   - title: Source
     url: https://github.com/OptogeneticsandNeuralEngineeringCore/ETC-CLARITY-Chamber
 ---
-# Introduction
+# CLARITY L-ETC
 
 The L-ETC, is an inexpensive and reliable CLARITY ETC chamber that can be easily assembled by a novice user. It provides several key advantages over previous ETC chamber fabrication methods including secure tissue containment, more consistent and efficient tissue cooling, fast lipid removal, easier chamber fabrication, and very low initial costs. The L-ETC chamber aligns the Electric Field with Clearing Solution flow and is the main focus of this proposal. The L-ETC system as a whole (pump, refrigerator, and power supply) will also be discussed in terms of settings.
 

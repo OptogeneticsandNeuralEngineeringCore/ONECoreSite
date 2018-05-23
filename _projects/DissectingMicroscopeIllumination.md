@@ -13,7 +13,8 @@ caption: Illuminate your research!
 description: >
     Illuminate your research!
 ---
-# Intro
+
+# Dissecting Microscope Illumination
 
 Viewing objects under a dissecting microscope requires a lot of optical power. Current-off-the-shelf products (including the old goose neck systems) are inefficient, often not true white, and are expensive. Here is an inexpensive (!), closer-to-true white light source that can fit on most dissecting microscopes.
 
