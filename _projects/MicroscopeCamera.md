@@ -116,7 +116,7 @@ Now, how awesome is this? For very little money, you have a fully functional sta
 
 Helpful note: The terminal doesn't allow for typical copy/paste; use ctrl shift c and ctrl shift v.
 
-This is really just an easy way to access already available projects. Support them. Expand on them. What can you do with this? Let [me](emailto:later) know.
+This is really just an easy way to access already available projects. Support them. Expand on them. What can you do with this? Let [me](mailto:later) know.
 
 ***
 
