@@ -16,7 +16,7 @@ description: >
 
 # SOS
 
-Sometimes I have ideas that would presumably help Neuroscience, but don't have the time, resources, or Knowles how to implement them. Maybe a plead posted here will push the projects to completion, somehow.
+Sometimes I have ideas that would presumably help Neuroscience, but don't have the time, resources, or knowledge how to implement them. Maybe a plead posted here will push the projects to completion, somehow.
 
 ---
 # Open Source Fiber Photometry
@@ -30,7 +30,7 @@ Help.
 
 ---
 # Arduino controlled Lesion Maker
-Lesions are still used today to mark electrode location ("you claim you were recording from this brain region, prove it" -Reviewer).The lesion makers I see around here are ancient (beautiful relics, with vacuum tube components). From [here](https://drive.google.com/file/d/15kfHP8jOXf1dwQSMLRsNy6OHagUYhdAd/view) I can get an equation that sounds appropriate. I know (or can input into Arduino) the size of my electrode, and can play around with the time and current, but know from their notes that the current should be on the order of 5-35 uA. And this must be DC, constant current. Sparkfun has a really inexpensive constant current part called the PicoAmp. They talk about replacing one resistor to UP the current, I would like to put a larger resistor in to drive the current DOWN, to the 5-35 uA range. I built the system up, saw good initial testing, the proceeded to try and overlay a keyboard/LCD screen. The code got complex and then even going back to the original code, found that the testing was no longer exactly repeatable. I've never found the time to go back to this. It should be a thing though. I can share what I have thus far with anyone that would like to pursue it. 
+Lesions are still used today to mark electrode location ("you claim you were recording from this brain region, prove it" -Reviewer).The lesion makers I see around here are ancient (beautiful relics, with vacuum tube components). From [here](https://drive.google.com/file/d/15kfHP8jOXf1dwQSMLRsNy6OHagUYhdAd/view) I can get an equation that sounds appropriate. I know (or can input into Arduino) the size of my electrode, and can play around with the time and current, but know from their notes that the current should be on the order of 5-35 uA. And this must be DC, constant current. Sparkfun has a really inexpensive constant current part called the PicoAmp. They talk about replacing one resistor to UP the current, I would like to put a larger resistor in to drive the current DOWN, to the 5-35 uA range. I built the system up, saw good initial testing, the proceeded to try and overlay a keyboard/LCD screen. The code got complex and then even going back to the original code, found that the testing was no longer exactly repeatable. I've never found the time to go back to this. It should be a thing though. I can share what I have thus far with anyone that would like to pursue it.
 
 ***
 

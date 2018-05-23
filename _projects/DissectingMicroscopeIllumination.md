@@ -56,7 +56,7 @@ Tools include: Soldering station, hot glue gun, Phillips screwdriver, wire strip
 ---
 # Assembly
 
-1. If you bought the right size DC plug, simply plug the DC power supply to the Dimmer Switch. If you're like me and you don't listen to your [own advise](/ONECoreSite/projects/DCPowerSources), you bought a power supply with the wrong size barrel jack (thanks, Jack!). No biggie, simply cut and splice the wires together:
+1. If you bought the right size DC plug, simply plug the DC power supply to the Dimmer Switch. If you're like me and you don't listen to your [own advice](/ONECoreSite/projects/DCPowerSources), you bought a power supply with the wrong size barrel jack (thanks, Jack!). No biggie, simply cut and splice the wires together:
    1. Cut and strip the wires
    2. Insert heat shrink over the wire
    3. Check the orientation of the dimmer (!). The circle end should go to power supply and the flat line should face the LEDs, as shown in the pic
@@ -82,7 +82,7 @@ Tools include: Soldering station, hot glue gun, Phillips screwdriver, wire strip
  ![2LED](/ONECoreSite/assets/img/projects/MicroscopeLED/2LED.jpg "2LED")
 ---
 # Keep going!
-Need to take pictures or videos of what is happening under the 'scope? Hate holding up your phone to try and get a pic? Check out [this project](/ONECoreSite/projects/MicroscopeCamera)!
+Need to take pictures or videos of what is happening under the 'scope? Hate holding up your phone to try and get a pic? Check out [this project](/ONECoreSite/_projects/MicroscopeCamera)!
 
 ***
 
