@@ -70,9 +70,9 @@ Then, be sure to feed the assembly through the housing and the nut *before you s
 
 ![Stereotaxic Holder](/ONECoreSite/assets/img/projects/MiniScope/2Axis.jpg "Stereotaxic")
 
-How do you hold the MiniScope during implantation? There are holders out there for current commercial imaging microscopes, but they are expensive (!). Hold your Miniscope with these inexpensive FDM 3D printed holders! They assemble with M3 Screws and nuts, and do not require any glue or otherwise to assemble. Two flavors are given: one that simply attaches to a basic 6mm stereotaxic rod at 90 degrees, and another that attaches to a ball on the end of a 6 mm rod (place into your stereotaxic equipment), allowing you some rotation around two axis (McMaster PN 6402K12). Some researchers needed a cup  to increase the diameter of the rod to fit into their stereotaxic equipment, so that is there as well. You can keep wires out of the way by fitting them into the holes on top of the parts. I like nGen, 40% infill (maybe more on the ball system), no supports necessary.
+How do you hold the MiniScope during implantation? There are holders out there for current commercial imaging microscopes, but they are expensive (!). Hold your Miniscope with these inexpensive FDM 3D printed holders! They assemble with 6-32 1/2" long Screws and nuts (McMaster	91772A148	and 90480A007), and do not require any glue or otherwise to assemble. Three flavors are given: one that simply attaches to a basic 6mm stereotaxic rod at 90 degrees, another that attaches to a ball on the end of a 6 mm rod (place into your stereotaxic equipment), allowing you some rotation around two axis (McMaster PN 6402K12), and one that attaches to the 3D printed Miniscope (see below). Some researchers needed a cup  to increase the diameter of the rod to fit into their stereotaxic equipment, so that is there as well. You can keep wires out of the way by fitting them into the holes on top of the parts. I like nGen, 40% infill (maybe more on the ball system), no supports necessary.
 
-Note: in order for the system to accept the ball, still be flexible, the parts are kind of thin. I've found it helpful to print it out, then hit it quick with a heat gun before I insert the ball. I then let it cool. I hit it with the heat gun again, and pinch it snug around the ball with my fingers. Thermoplastics and all.
+Note: in order for the system to accept the ball, still be flexible, the parts are kind of thin. When you try to incert the ball, you may break the parts. I've found it helpful to print it out, then hit it quick with a heat gun before I insert the ball. I then let it cool. I hit it with the heat gun again, and pinch it snug around the ball with my fingers. Thermoplastics and all.
 
 | File | Description | File Type  |
 | --- | --- | --- |
@@ -94,6 +94,8 @@ Don't have an FDM printer? Support the [ONE Core](mailto:neuralengineering@ucden
 ![Head Mount](/ONECoreSite/assets/img/projects/MiniScope/Hand.jpg "Head Mount")
 
 I redesigned the Head Mount system to allow for 3D printing. Unless you are super crazy good (like, world class), FDM printing will not be the way to go. microSLA or Polyjet would be the way to go. I have successfully printed these with a Projet1200 (set to Green resin settings) using Deep Black Resin from FunToDo. Of course, this voids the warranty of the Projet, but the resin is over 10X less expensive, and you get to understand and play with the properties of the resin. Want to find out how to do this and how to fix the resin vats? Shoot me an [email](mailto:neuralengineering@ucdenver.edu). This resin reportedly has less autoflourescence than Delrin.
+
+![3D Printed](/ONECoreSite/assets/img/projects/MiniScope/3D Printed.png "3D Printed")
 
 All components fit with the original PCB, LED, and filters and use the same screws. The walls are thicker, because this plastic doesn't seem to block light as well, but the entire assembly is only .1 grams more. It includes tick marks so you can know the height you have set the camera at. It has a smaller footprint, and therefore does not fit on the previous MS_Holders.
 

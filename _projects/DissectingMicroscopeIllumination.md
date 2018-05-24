@@ -20,7 +20,7 @@ Viewing objects under a dissecting microscope requires a lot of optical power. C
 
 This is a remix from a design shared by Thingiverse user bmv234, [Universal LED Ring Light Mount](https://www.thingiverse.com/thing:2548178). The design given here emphasizes minimal printing time and material, ease of function and assembly (no trying to 3D print screws), and increasing optical power. The dirt cheap LED sources are LED rings that kids use to 'soup up their cars' whatever that means, but hey, cheap tools. A inexpensive switch allows for on/off functionality with a simple (capacitance) touch, and dimming with prolonged touch. An inexpensive wall plug provides the DC current needed (think about how to specify a DC Power source [here](/ONECoreSite/projects/DCPowerSources)). Some 3D printed components are given, which hold the LED rings and protect the 'scope from scratching.
 
-Need MOAR light? These are crazy bright, but OK. There are two designs given: one system with one LED ring. Another with two LED rings, one offset from the other, but the light is still well dispersed and centered. Need EVEN MOAR LIGHT? That's just crazy and you are on your own.
+Need MOAR light? These are crazy bright, but OK. There are two designs given: one system with one LED ring. Another with two LED rings, one offset from the other, but the light is still well dispersed and centered. Need EVEN MOAR LIGHT? That's just crazy and you are on your own.  ***Update below***
 
 *Note: These are really bright. I recommend that you do not look directly at them. Point them at the wall when you first turn them on*
 
@@ -51,6 +51,8 @@ Here is a list of 3D Printed Components. All were printed successfully with nGen
 | [Minimal LED holder 2 LEDsys](https://github.com/OptogeneticsandNeuralEngineeringCore/MicroscopeLED/raw/master/Minimal%20LED%20holder%202%20LEDsys.ipt) | 2 LED | .ipt | Holds the LEDs |
 | [Minimal LED holder 2 LEDsys](https://github.com/OptogeneticsandNeuralEngineeringCore/MicroscopeLED/raw/master/Minimal%20LED%20holder%202%20LEDsys.stl) | 2 LED | [stl](https://github.com/OptogeneticsandNeuralEngineeringCore/MicroscopeLED/blob/master/Minimal%20LED%20holder%202%20LEDsys.stl) | Holds the LEDs |
 
+Check out the lamp update below.
+
 Tools include: Soldering station, hot glue gun, Phillips screwdriver, wire strippers, shrink wrap, heat gun
 
 ---
@@ -80,7 +82,17 @@ Tools include: Soldering station, hot glue gun, Phillips screwdriver, wire strip
 
  1. Assembly of the two LED system is similar to the one LED system, but with two LEDs in parallel. To do that, simply have all the red wires together and all the black wires together. It's a good idea to strip more jacket off so you can twist together three wires.
  ![2LED](/ONECoreSite/assets/img/projects/MicroscopeLED/2LED.jpg "2LED")
----
+
+ ***
+
+***Lamp Update***
+Well...OK, you optic hungry researcher you. Here's how to MOAR light where you need. See, LED's have very broad illumination, spreading light all over the place. Print out this lamp and hot glue it on to the LED holder. Then hot glue on some aluminum foil to redirect the light to where you need it (*keep the foil away from the exposed electronics*).  
+
+![Lamp1](/ONECoreSite/assets/img/projects/MicroscopeLED/Lamp1.jpg "Lamp1")
+![Lamp2](/ONECoreSite/assets/img/projects/MicroscopeLED/Lamp2.jpg "Lamp2")
+
+***
+
 # Keep going!
 Need to take pictures or videos of what is happening under the 'scope? Hate holding up your phone to try and get a pic? Check out [this project](/ONECoreSite/_projects/MicroscopeCamera)!
 
