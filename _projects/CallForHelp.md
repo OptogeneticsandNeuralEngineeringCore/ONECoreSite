@@ -2,7 +2,7 @@
 layout: project
 title: Call for Help
 date: 18 May 2018
-tags: [SOS]
+tags: [SOS, Help]
 screenshot:
   src: /ONECoreSite/assets/img/projects/SOS.png
   srcset:
