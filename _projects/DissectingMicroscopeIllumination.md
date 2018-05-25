@@ -88,8 +88,8 @@ Tools include: Soldering station, hot glue gun, Phillips screwdriver, wire strip
 ***Lamp Update***
 Well...OK, you optic hungry researcher you. Here's how to MOAR light where you need. See, LED's have very broad illumination, spreading light all over the place. Print out this lamp and hot glue it on to the LED holder. Then hot glue on some aluminum foil to redirect the light to where you need it (*keep the foil away from the exposed electronics*).  
 
-![Lamp1](/ONECoreSite/assets/img/projects/MicroscopeLED/Lamp1.jpg "Lamp1")
-![Lamp2](/ONECoreSite/assets/img/projects/MicroscopeLED/Lamp2.jpg "Lamp2")
+![Lamp1](/ONECoreSite/assets/img/projects/MicroscopeLED/Lamp1.png "Lamp1")
+![Lamp2](/ONECoreSite/assets/img/projects/MicroscopeLED/Lamp2.png "Lamp2")
 
 ***
 

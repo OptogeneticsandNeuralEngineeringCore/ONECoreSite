@@ -21,13 +21,15 @@ links:
 
 # Neuroprobeamajiger
 
-This is a collection of parts that easily attach to stereotaxic equipment. With one M3 10 mm screw and one M3 nut (no glue even) the parts can attach to the basic 6 mm diameter stereotaxic rod. Another set of M3 screw and nut allows for the parts to clamp onto what is to be implanted. Currently, there are revisions that allow for
+This is a collection of parts that easily attach to stereotaxic equipment. With one M3 10 mm 6-32 screw and one 6-32 nut (no glue even) the parts can attach to the basic 6 mm diameter stereotaxic rod. Another set of 6-32 screw and nut allows for the parts to clamp onto what is to be implanted. Currently, there are revisions that allow for
 
 * optic cannulas (fiber optics for optogenetics, including a 1.25 mm or 2.5 mm ferrules or associated sleeves)
 * electrode arrays (special attention to Neuronexus probes)
 * *both* optic cannulas and electrode arrays (record while you stimulate!)
-* the microscope portion of the UCLA MiniScope (note this requires either shaving the burrs off of the machined parts or use of the 3D printed parts (design forthcoming))
 * a variety of wire sizes (meant to hold the wires out of the way)
+* a drill
+* the microscope portion of the [UCLA MiniScope](/ONECoreSite/projects/Miniscope)
+* [RIVETSRemix](/ONECoreSite/projects/RIVETSRemix)
 
 A variety of horizontal holes on top allow wires and fiber optic patch cords to be held. No special tools are required for assembly. Release of the component post implantation only requires one hand (phillips screwdriver).
 
@@ -47,8 +49,12 @@ I'm an engineer with no marketing experience. Please pardon the name (Neuroprobe
 | [StereotaxicNeuroprobeamajigerElectrodeAndOptic.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerElectrodeAndOptic.stl) | Stereotaxic Optic Electrode Holder | stl (3D printable) |
 | [StereotaxicNeuroprobeamajigerWires.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerWires.ipt) | Stereotaxic Wire Holder | ipt (3D editable) |
 | [StereotaxicNeuroprobeamajigerWires.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerWires.stl) | Stereotaxic Wire Holder | stl (3D printable) |
+| [StereotaxicNeuroprobeamajigerDrill.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/Drill%20Holder.ipt) | Hold a drill | ipt (3D editable) |
+| [StereotaxicNeuroprobeamajigerDrill.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/Drill%20Holder.stl) | Hold a drill  | stl (3D printable) |
 | [StereotaxicNeuroprobeamajigerMiniscope.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerMiniscope.ipt) | Miniscope Holder | ipt (3D editable) |
 | [StereotaxicNeuroprobeamajigerMiniscope.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/StereotaxicNeuroprobeamajiger/raw/master/StereotaxicNeuroprobeamajigerMiniscope.stl) | Miniscope Holder | stl (3D printable) |
+| [StereotaxicNeuroprobeamajigerRIVETSRemix.ipt](https://github.com/OptogeneticsandNeuralEngineeringCore/SmallProjectFiles/raw/master/RIVETSRemixHolder.ipt) | Hold the Rivets (and it's remix) | ipt (3D editable) |
+| [StereotaxicNeuroprobeamajigerDrill.stl](https://github.com/OptogeneticsandNeuralEngineeringCore/SmallProjectFiles/raw/master/RIVETSRemixHolder.stl) | Hold the Rivets (and it's remix)  | stl (3D printable) |
 
 ***
 
@@ -57,7 +63,7 @@ Parts have been successfully printed with either PLA or nGen (preferred) with st
 
 ***
 
-# View .stl Files
+# View .stl Files (some files; this seems hard for some browsers, so I stopped updating this)
 
 If interact-able views of the 3D parts do not load, try reloading the page. If that doesn't work, view them on the GitHub pages (links above) or update your browser.
 
