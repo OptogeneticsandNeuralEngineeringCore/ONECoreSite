@@ -29,16 +29,14 @@ title:               Optogenetics and Neural Engineering Core
 description:           An engineering resource for YOUR research
 
 # A shorter description for the sidebar.
-tagline:             >
-  The goal of the Optogenetics and Neural Engineering (ONE) Core is to facilitate the
-  incorporation of optogenetics methods and custom engineering into existing research programs at the
-  University of Colorado, Denver School of Medicine.
+tagline:             We've moved to [Gitlab](https://optogeneticsandneuralengineeringcore.gitlab.io/ONECoreSite/)!
+
 
 # A list of keywords for your blog
 keywords:              [Neuro]
 
 # Used by jekyll-seo-tag...
-logo:                  /assets/img/Favicon/favicon-32x32.png
+logo:                  /assets/img/Favicon/ms-icon-310x310.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
@@ -49,7 +47,7 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. All rights reserved.
+copyright:             © 2018. All rights reserved.
 
 # Format of the permalinks
 permalink:             pretty
@@ -63,7 +61,7 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /ONECoreSite/assets/img/CLARITY1.png
+accent_image:          /ONECoreSite/assets/img/1920x1200.jpg
 accent_color:          '#dbd600'
 
 # The string encoding which fonts to fetch from Google Fonts.
@@ -238,7 +236,7 @@ relative_links:
   collections:         true
 
 titles_from_headings:
-  enabled: false
+  #enabled: false              ###Was in old Hydejack, was completely removed in new one
   strip_title:         true
   collections:         true
 

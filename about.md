@@ -1,9 +1,13 @@
 ---
 layout: about
 title: About
-menu: true
+menu: false
 order: 2
 ---
+<!--author-->
+---
+<br><br>
+    ![Aerial](/ONECoreSite/assets/img/Aerial.jpg "Aerial")
 
 ## The Optogenetic and Neural Engineering (ONE) Core
 We hope to make engineering resources more accessible to novice users on campus via the following services:

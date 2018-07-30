@@ -2,7 +2,7 @@
 layout: about
 title: Contact
 author: Andrew Scallon
-menu: true
+menu: false
 order: 20
 ---
 

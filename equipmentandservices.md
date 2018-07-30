@@ -2,7 +2,7 @@
 layout: about
 title: Equipment and Services
 author: Andrew Scallon
-menu: true
+menu: false
 order: 4
 ---
 
@@ -43,7 +43,7 @@ Dual Output DC Power Supply | HP | E3620A
 Shaker | Stovall | The Belly Dancer
 Pipette Puller | Sutter | P-2000
 Laptop | Lenovo | SL510
-[Lesion Maker](/ONECoreSite/projects/thislinkwillbebroken/) | ONE Core | NA
+[Lesion Maker](/ONECoreSite/projects/CallForHelp/) | ONE Core | NA
 Oscilloscope | Tektronix | TDS 2024C
 Electronic Workbench | ONE Core | NA
 Optical Rise Time Meter | Thorlabs | DET10A

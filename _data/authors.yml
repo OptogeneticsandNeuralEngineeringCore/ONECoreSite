@@ -10,6 +10,7 @@ ONECoreSN:
   about:
     The Optogenetics and Neural Engineering (ONE) Core is housed on the Anschutz Medical Campus, part of the University of Colorado Denver
     School of Medicine.
+    <br>
 
   # This photo will be used in the about section
   picture:
@@ -47,7 +48,7 @@ ONECoreSN:
     # pinterest:       _username_
     # foursquare:      _number_
     # yelp:            _string_
-    github:          OptogeneticsandNeuralEngineeringCore
+    # github:          OptogeneticsandNeuralEngineeringCore
     # stackoverflow:   _number_/_username_
     # npm:             _username_
     # hackernews:      _username_

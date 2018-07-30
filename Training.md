@@ -2,7 +2,7 @@
 layout: about
 title: Training
 author: Andrew Scallon
-menu: true
+menu: false
 order: 5
 ---
 

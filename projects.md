@@ -7,6 +7,6 @@ description: >
   <br>
   Unless explicitly stated, all projects (software, documentation, drawings, and other file types) are shared freely under the <a href="https://choosealicense.com/licenses/mit/" target="_blank">MIT License</a>.
 
-menu: true
+menu: false
 order: 3
 ---
